@@ -16,7 +16,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:text="BASKETBALL"
-        android:textSize="56sp"
+        android:textSize="32sp"
         android:textStyle="bold" />
 
     <ImageView
